@@ -1,0 +1,64 @@
+header {
+    padding: 5%;
+    background-color: #d35649;
+}
+
+a {
+    color: white;
+}
+
+.events {
+    display: flex;
+}
+
+.nav {
+    float: right;
+}
+
+header ul>li {
+    display: inline;
+}
+
+
+
+.sunny {
+    color: #d35649;
+    text-align: center;
+}
+
+.blue {
+    color: #509bd7;
+}
+
+.col1 {
+    float: left;
+}
+
+.col2 {
+    float: right;
+}
+
+button {
+    color: white;
+    background-color: #509bd7
+}
+
+.contact {
+    display: flex;
+}
+
+footer {
+    background-color: #1f1f1f;
+}
+
+.contenair {
+    display: flex;
+}
+
+.float1 {
+    float: left;
+}
+
+.float3 {
+    float: right;
+}
